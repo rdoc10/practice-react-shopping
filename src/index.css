@@ -1,0 +1,10 @@
+body {
+  margin: 10 em;
+  padding: 10 em;
+  font-family: sans-serif;
+}
+
+.list {
+  list-style-position: outside;
+  list-style-type: circle;
+}
